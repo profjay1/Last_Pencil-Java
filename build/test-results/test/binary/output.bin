@@ -1,0 +1,2316 @@
+[1;31m
+Start test 1[0m
+,How many pencils would you like to use: > 0
+*The number of pencils should be positive
+,How many pencils would you like to use: > a
+)The number of pencils should be numeric
+,How many pencils would you like to use: > 0
+*The number of pencils should be positive
+,How many pencils would you like to use: > 1
+[1;31m
+Start test 2[0m
+,How many pencils would you like to use: > a
+)The number of pencils should be numeric
+[1;31m
+Start test 3[0m
+,How many pencils would you like to use: > _
+)The number of pencils should be numeric
+[1;31m
+Start test 4[0m
+/How many pencils would you like to use: > test
+)The number of pencils should be numeric
+[1;31m
+Start test 5[0m
+,How many pencils would you like to use: > |
+)The number of pencils should be numeric
+[1;31m
+Start test 6[0m
+0How many pencils would you like to use: > |||||
+)The number of pencils should be numeric
+[1;31m
+Start test 7[0m
+,How many pencils would you like to use: >  
+)The number of pencils should be numeric
+[1;31m
+Start test 8[0m
+,How many pencils would you like to use: > -
+)The number of pencils should be numeric
+[1;31m
+Start test 9[0m
+.How many pencils would you like to use: > two
+)The number of pencils should be numeric
+[1;31m
+Start test 10[0m
+.How many pencils would you like to use: > 10g
+)The number of pencils should be numeric
+[1;31m
+Start test 11[0m
+-How many pencils would you like to use: > k5
+)The number of pencils should be numeric
+[1;31m
+Start test 12[0m
+/How many pencils would you like to use: > -0.2
+)The number of pencils should be numeric
+[1;31m
+Start test 13[0m
+.How many pencils would you like to use: > 0.3
+)The number of pencils should be numeric
+[1;31m
+Start test 14[0m
+,How many pencils would you like to use: > 1
+[1;31m
+Start test 15[0m
+,How many pencils would you like to use: > 2
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+Too many pencils were taken
+> 2
+James won!
+[1;31m
+Start test 16[0m
+,How many pencils would you like to use: > 3
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+|||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||
+James's turn!
+1
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+Too many pencils were taken
+> 1
+James won!
+[1;31m
+Start test 17[0m
+,How many pencils would you like to use: > 4
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+||
+James's turn!
+1
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 18[0m
+,How many pencils would you like to use: > 5
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||
+James's turn!
+2
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 19[0m
+,How many pencils would you like to use: > 9
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+
+||||||||
+James's turn!
+3
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||
+James's turn!
+3
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+Too many pencils were taken
+> 1
+James won!
+[1;31m
+Start test 20[0m
+-How many pencils would you like to use: > 13
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+|||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||||||||||
+James's turn!
+2
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+	|||||||
+James's turn!
+2
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||
+James's turn!
+2
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+Too many pencils were taken
+> 1
+James won!
+[1;31m
+Start test 21[0m
+-How many pencils would you like to use: > 17
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+|||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||||||||||||||
+James's turn!
+1
+|||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||||||||||
+James's turn!
+2
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||||||
+James's turn!
+1
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||
+James's turn!
+2
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 22[0m
+-How many pencils would you like to use: > 21
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+|||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||||||||||||||||||
+James's turn!
+2
+|||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||||||||||||||
+James's turn!
+1
+|||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||||||||||
+James's turn!
+3
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+
+||||||||
+James's turn!
+3
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||
+James's turn!
+1
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 23[0m
+.How many pencils would you like to use: > 101
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+,Who will be the first (Paul, James): > Paul
+g|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+e|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
+c|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+`||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+_|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+]|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
+[|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+Y|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
+W|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+T||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+S|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+Q|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
+O|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+M|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
+K|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+J||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+G|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+E|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
+C|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+B||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+?|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+;|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+:||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+7|||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+5|||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
+3|||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+0||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+/|||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+-|||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
++|||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+(||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+'|||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+%|||||||||||||||||||||||||||||||||||
+James's turn!
+2
+#|||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+!|||||||||||||||||||||||||||||||
+James's turn!
+2
+|||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||||||||||||||||||||||||||
+James's turn!
+3
+|||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||||||||||||||||||||||
+James's turn!
+3
+|||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||||||||||||||||||
+James's turn!
+1
+|||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||||||||||||||
+James's turn!
+1
+|||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||||||||||
+James's turn!
+2
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||||||
+James's turn!
+1
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||
+James's turn!
+3
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 24[0m
+,How many pencils would you like to use: > 2
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+||
+James's turn!
+1
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 25[0m
+,How many pencils would you like to use: > 3
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+|||
+James's turn!
+2
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+Too many pencils were taken
+> 1
+James won!
+[1;31m
+Start test 26[0m
+,How many pencils would you like to use: > 4
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+||||
+James's turn!
+3
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+Too many pencils were taken
+> 1
+James won!
+[1;31m
+Start test 27[0m
+,How many pencils would you like to use: > 5
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+|||||
+James's turn!
+1
+||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+|||
+James's turn!
+2
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 28[0m
+,How many pencils would you like to use: > 9
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+|||||||||
+James's turn!
+1
+
+||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+	|||||||
+James's turn!
+2
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||
+James's turn!
+1
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 29[0m
+-How many pencils would you like to use: > 13
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+|||||||||||||
+James's turn!
+2
+|||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||||||||
+James's turn!
+1
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||||||
+James's turn!
+1
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||
+James's turn!
+1
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 30[0m
+-How many pencils would you like to use: > 17
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+|||||||||||||||||
+James's turn!
+3
+||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+|||||||||||
+James's turn!
+2
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+	|||||||
+James's turn!
+2
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||
+James's turn!
+1
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+Too many pencils were taken
+> 1
+James won!
+[1;31m
+Start test 31[0m
+-How many pencils would you like to use: > 21
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+|||||||||||||||||||||
+James's turn!
+2
+|||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||||||||||||||||
+James's turn!
+1
+||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+|||||||||||||
+James's turn!
+1
+||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+||||||||||
+James's turn!
+1
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+
+||||||||
+James's turn!
+3
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||
+James's turn!
+3
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+Too many pencils were taken
+> 1
+James won!
+[1;31m
+Start test 32[0m
+.How many pencils would you like to use: > 101
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+1Who will be the first (Paul, James): > PaulJames
+#Choose between 'John' and 'James'
+-Who will be the first (Paul, James): > James
+g|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+f||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+d||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+c|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+b||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+_|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+\||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+[|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+X||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+W|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+T||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+S|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+R||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+O|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+L||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+K|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+J||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+G|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+D||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+C|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+B||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+?|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+;|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+8||||||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+7|||||||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+5|||||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+2
+3|||||||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+2||||||||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+3
+/|||||||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+,||||||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
++|||||||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+(||||||||||||||||||||||||||||||||||||||
+James's turn!
+1
+'|||||||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+%|||||||||||||||||||||||||||||||||||
+James's turn!
+2
+#|||||||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+"||||||||||||||||||||||||||||||||
+James's turn!
+3
+|||||||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||||||||||||||||||||||||||
+James's turn!
+3
+|||||||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||||||||||||||||||||||
+James's turn!
+3
+|||||||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||||||||||||||||||
+James's turn!
+3
+|||||||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 2
+|||||||||||||||
+James's turn!
+2
+|||||||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 3
+||||||||||
+James's turn!
+1
+|||||||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+
+||||||||
+James's turn!
+3
+|||||
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+||||
+James's turn!
+3
+|
+Paul's turn!
+> 4
+"Possible values: '1', '2' or '3'
+> a
+"Possible values: '1', '2' or '3'
+> 0
+"Possible values: '1', '2' or '3'
+> -1
+"Possible values: '1', '2' or '3'
+> _
+"Possible values: '1', '2' or '3'
+> |
+"Possible values: '1', '2' or '3'
+> |||||
+"Possible values: '1', '2' or '3'
+> 1
+James won!
+[1;31m
+Start test 33[0m
+,How many pencils would you like to use: > 0
+*The number of pencils should be positive
+,How many pencils would you like to use: > 0
+*The number of pencils should be positive
+,How many pencils would you like to use: > 0
+*The number of pencils should be positive
+,How many pencils would you like to use: > 0
+*The number of pencils should be positive
+,How many pencils would you like to use: > 0
+*The number of pencils should be positive
